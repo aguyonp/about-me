@@ -15,7 +15,7 @@ title = "Antoine GUYON"
 [params.author]
   # name = "Your name here"
   image = "img/me.png"
-  headline = "I'm only human"
+  headline = "DevOps Boy"
   bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
